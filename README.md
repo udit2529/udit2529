@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @udit2529
 - 👀 I’m interested in Software Development
-- 🌱 I’m computer scinece student 
+- 🌱 I’m computer sicence student 
 - 💞️ I’m looking for some good job/intern opportunity
 - 📫 How to reach me through by linkldin\Email
 <!---
